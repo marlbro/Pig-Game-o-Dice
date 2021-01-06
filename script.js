@@ -32,7 +32,6 @@ const init = function () {
 
   player1Name.textContent = 'Player 1';
   player2Name.textContent = 'Player 2';
-
   diceEl.classList.add('hidden');
 
   player0El.classList.remove('player--winner');
